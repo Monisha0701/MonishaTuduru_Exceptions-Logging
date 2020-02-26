@@ -1,0 +1,17 @@
+2020-02-26 21:49:32 INFO  Main1:Main1:12 -Enter the principle amount
+2020-02-26 21:49:44 INFO  Main1:Main1:14 -Enter the time period
+2020-02-26 21:49:46 INFO  Main1:Main1:16 -Enter the rate of interest
+2020-02-26 21:49:49 INFO  Main1:Main1:19 -
+1.Simple Interest
+2.Compound Interest
+2020-02-26 21:49:49 INFO  Main1:Main1:20 -Enter the choice
+2020-02-26 21:49:51 INFO  Main1:Main1:25 -60.0
+2020-02-26 21:49:51 INFO  Main1:Main1:31 -Do you want to continue Y/N?
+2020-02-26 21:50:19 INFO  Compute:Compute:16 -Enter the total area of the house
+2020-02-26 21:50:23 INFO  Compute:Compute:22 -1.Standard Material
+2.Above Standard Material
+3.High Standard Material
+4.High standard Material and Fully automatic home
+2020-02-26 21:50:25 INFO  Compute:Compute:25 -Do you want a fully automated house(y/n)
+2020-02-26 21:50:27 INFO  Compute:Compute:32 -760000
+2020-02-26 21:50:27 INFO  Compute:Compute:52 -Do you want to continue y/n?
